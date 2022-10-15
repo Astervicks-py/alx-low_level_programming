@@ -2,10 +2,12 @@
 #include <time.h>
 #include <stdio.h>
 
-/*  main - Determine if n is positive of negative or zer
- *  Return Always 0 (sucess)
+/**
+ * main - Entry point.
+ *
+ * Return: Always 0 (Success)
  */
-<F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11>int main(void)
+int main(void)
 {
 	int n;
 
