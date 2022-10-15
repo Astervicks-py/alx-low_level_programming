@@ -2,11 +2,10 @@
 #include <time.h>
 #include <stdio.h>
 
-/* betty style doc for function main goes there
- * main - determine if n is positive of negative or zer
- * Return Always 0 (sucess)
- **/
-int main(void)
+/*  main - Determine if n is positive of negative or zer
+ *  Return Always 0 (sucess)
+ */
+<F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11>int main(void)
 {
 	int n;
 
