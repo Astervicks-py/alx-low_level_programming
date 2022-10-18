@@ -2,7 +2,7 @@
 /**
  * main -- print a bunch of stuff
  */
-void print _alphabet(void);
+void print_alphabet(void)
 {
 	int j;
 	int x;
