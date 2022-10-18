@@ -2,7 +2,7 @@
 /**
  * _abs - print last digit
  * @n: print struf
- * Return: return value
+ * Return: absolute value of a number
  */
 int _abs(int n)
 {
